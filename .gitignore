@@ -1,2 +1,6 @@
 main_copy_claude1.cpp
 main_copy.cpp
+
+.DS_Store
+.idea
+.vscode
