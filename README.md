@@ -1,6 +1,6 @@
 # CO_mindset-heuristic
 
-Greedy heuristic for the **minimum distance-*d* dominating set** problem. Combinatorial Optimization course project (CO — *Badania Operacyjne*).
+Greedy heuristic for the **minimum distance-*d* dominating set** problem. Combinatorial Optimization course project.
 
 ## Problem
 
